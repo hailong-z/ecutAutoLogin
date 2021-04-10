@@ -1,4 +1,4 @@
-#东华理工大学校园网自动登录
+#东华理工大学校园网自动登录#
 >-*- coding:utf-8 -*-</br>
 > @author : hailong@ecut.edu.com</br>
 > @Github : https://github.com/hailong-z </br>
